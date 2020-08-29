@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogics", "BusinessL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateMain", "DelegateMain\DelegateMain.csproj", "{AEF1D9DD-FA5C-49AC-9DD3-B53F0A7C1C2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationPlatForm", "OperationPlatForm\OperationPlatForm.csproj", "{42804AC4-A2F7-48F8-8550-1C9D5DD12F5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationPlatForm", "OperationPlatForm_SubModule\OperationPlatForm.csproj", "{42804AC4-A2F7-48F8-8550-1C9D5DD12F5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

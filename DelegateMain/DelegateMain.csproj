@@ -54,7 +54,7 @@
       <Project>{410d58da-19b8-4e9c-8621-7a1bf6085ffe}</Project>
       <Name>BusinessLogics</Name>
     </ProjectReference>
-    <ProjectReference Include="..\OperationPlatForm\OperationPlatForm.csproj">
+    <ProjectReference Include="..\OperationPlatForm_SubModule\OperationPlatForm.csproj">
       <Project>{42804ac4-a2f7-48f8-8550-1c9d5dd12f5e}</Project>
       <Name>OperationPlatForm</Name>
     </ProjectReference>
