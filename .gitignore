@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DelegateMain/obj/Debug
+/DelegateMain/bin/Debug
+/DelegateMain
+/BusinessLogics/obj/Debug
+/BusinessLogics/bin/Debug
+/BusinessLogics
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs
