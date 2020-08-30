@@ -16,5 +16,10 @@
 		{
 			return a * 10 + b;
 		}
+
+		public static int Square(int a)
+		{
+			return a * a;
+		}
 	}
 }
