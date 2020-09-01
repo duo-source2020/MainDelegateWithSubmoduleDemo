@@ -30,7 +30,7 @@ namespace DelegateMain
 			Console.WriteLine("Add result: {0}", Operation.Run(firstInt, secondInt, MathOperations.Add));
 			Console.WriteLine("Multiply result: {0}", Operation.Run(firstInt, secondInt, MathOperations.Multiply));
 			Console.WriteLine("Union result: {0}", Operation.Run(firstInt, secondInt, MathOperations.Union));
-			Console.WriteLine("Square result: {0}", Operation.Run(firstInt, MathOperations.Square));
+			Console.WriteLine("Remainder result: {0}", Operation.Run(firstInt, secondInt,MathOperations.Remainder));
 
 
 			Console.ReadLine();

@@ -14,12 +14,12 @@
 
 		public static int Union(int a, int b)
 		{
-			return a * 10 + b;
+			return int.Parse(a.ToString() + b.ToString());
 		}
 
-		public static int Square(int a)
+		public static int Remainder(int a, int b)
 		{
-			return a * a;
+			return a % b;
 		}
 	}
 }
